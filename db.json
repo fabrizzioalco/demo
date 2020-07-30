@@ -1,18 +1,18 @@
 {
 
-  FPS: 30,
-  capture_date: 1,
-  duration: 7,
-  filename: "trim",
-  format: ".mp4",
-  processing :  [
+  "FPS": 30,
+  "capture_date": 1,
+  "duration": 7,
+  "filename": "trim",
+  "format": ".mp4",
+  "processing" :  [
       {
-          algorithm: "YOLOv3",
-          detections: [
+          "algorithm": "YOLOv3",
+          "detections": [
               {
-                  objects:{
-                      car:{
-                          count: 11
+                  "objects":{
+                      "car":{
+                          "count": 11
                       }
                   }
               }
