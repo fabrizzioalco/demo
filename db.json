@@ -1,24 +1,14 @@
 [
-    {
-
-    "FPS": 30,
-    "capture_date": 1,
-    "duration": 7,
-    "filename": "trim",
-    "processing" :  [
-        {
-            "algorithm": "YOLOv3",
-            "detections": [
-                { 
-                    "objects":{
-                        "car":{
-                            "count": 11
-                        }
-                    }
-                }
-            ]
-        }
-    ]
-
+  {
+    "id": 1,
+    "title": "Post 1"
+  },
+  {
+    "id": 2,
+    "title": "Post 2"
+  },
+  {
+    "id": 3,
+    "title": "Post 3"
   }
 ]
